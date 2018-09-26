@@ -32,6 +32,7 @@ The angle of rotation is set by the `pos` variable  due to its usage in the for(
 
 **Include a photo/movie of your raw circuit in action.**
 [Servo](https://www.youtube.com/watch?v=WeX1r8tB9hI)
+[Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/servo.ino)
 
 ## Part D. Paper puppet
 
