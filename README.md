@@ -22,7 +22,7 @@ Orange is Signal, Red is Power, Brown is Ground
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
-<br> The Arduino pin should be connected to Pin 9. 
+The Arduino pin should be connected to Pin 9. 
 
 **b. What aspects of the Servo code control angle or speed?**
 
