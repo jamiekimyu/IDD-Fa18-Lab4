@@ -46,6 +46,8 @@ The angle of rotation is set by the `pos` variable  due to its usage in the for(
 
 **a. Make a video of your final design.**
 
+The puppet is scared of the dark and raises its arms when the Proximity Sensor senses no light. In the video, this occurs when I cover the sensor with my hand. Otherwise, the puppet is at peace and doesn't move. 
+
 [Scared of the Dark](https://www.youtube.com/watch?v=eRiYjC2lUDo)
 
 [Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/scared_of_the_dark.ino)
