@@ -34,7 +34,7 @@ The angle of rotation is set by the `pos` variable  due to its usage in the for(
 
 [Servo](https://www.youtube.com/watch?v=WeX1r8tB9hI)
 
-[Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/scared_of_the_dark.ino)
+[Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/servo.ino)
 
 ## Part D. Paper puppet
 
@@ -47,5 +47,5 @@ The angle of rotation is set by the `pos` variable  due to its usage in the for(
 **a. Make a video of your final design.**
 
 [Scared of the Dark](https://www.youtube.com/watch?v=eRiYjC2lUDo)
-[Code]()
+[Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/scared_of_the_dark.ino)
  
