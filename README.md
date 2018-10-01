@@ -47,5 +47,6 @@ The angle of rotation is set by the `pos` variable  due to its usage in the for(
 **a. Make a video of your final design.**
 
 [Scared of the Dark](https://www.youtube.com/watch?v=eRiYjC2lUDo)
+
 [Code](https://github.com/jamiekimyu/IDD-Fa18-Lab4/blob/master/scared_of_the_dark.ino)
  
